@@ -1,0 +1,7 @@
+1.How to open a shell when shell is /usr/bin/showtext
+Solution:
+make terminal as small as possible
+press v
+:set shell=/bin/bash
+:shell
+
